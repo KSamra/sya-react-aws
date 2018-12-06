@@ -17,7 +17,6 @@
     "react-router-bootstrap": "^0.24.4",
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.0.5",
-    "react-social-icons": "^3.0.0",
     "recompose": "^0.30.0",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
@@ -41,6 +40,6 @@
   ],
   "devDependencies": {
     "jest": "^23.6.0",
-    "react-social-icons": "^3.0.0"
+    "react-social-icons": "3.0.0"
   }
 }
